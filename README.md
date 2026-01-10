@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=40&duration=1500&pause=500&color=10B982&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Glad+you're+here!;Take+a+look+around+%E2%9C%A8" alt="Header" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Software+Engineer+%F0%9F%92%BB;AI+%26+Computer+Vision+Expert+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+Production-Ready+AI+%F0%9F%9A%80" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=680&size=30&duration=2200&pause=500&color=FF00AA&background=000814&center=true&vCenter=true&multiline=false&repeat=true&width=740&height=60&lines=AI+/+ML+Engineer+%E2%9A%A1;Code+Necromancer+%F0%9F%91%BB;Vision+Alchemist+%F0%9F%94%AE;Full+Stack+Maestro+%F0%9F%AA%90" alt="Subtitle" />
 </div>
 
 ## Overview
