@@ -222,8 +222,6 @@ Here are some of the professional certificates that I have earned over the years
 - **HCIxI: Human-Computer Interaction** – Georgia Institute of Technology  
 - **Leadership and Communication** – Harvard University
 
-*(end Certificates section)*
-
 ## 📊 My GitHub Stats
 
 <div align="center">
