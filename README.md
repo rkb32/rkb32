@@ -135,94 +135,102 @@ Here’s a snapshot of the skills and technologies I have experience with 🧩
 
 </details>
 
-<details>
-<summary><strong>🎨 Design & Architecture</strong></summary>
+# Professional Certifications
 
-<table>
-<tr>
-  <td align="center"><strong>OOP</strong></td>
-  <td align="center"><strong>SOLID</strong></td>
-  <td align="center"><strong>Design Patterns</strong></td>
-  <td align="center"><strong>API Design</strong></td>
-  <td align="center"><strong>System Design</strong></td>
-</tr>
-</table>
+Here are some of the professional certificates that I have earned over the years 
+
+
+<details>
+<summary>🤖 AI, LLMs & Vector Databases</summary>
+
+  - Microsoft Azure AI Essentials Professional Certificate – Microsoft & LinkedIn
+    
+  - Vector Databases Professional Certificate – Weaviate
 
 </details>
 
-## Notable Projects
+<details>
+<summary>☁️ DevOps, Cloud & Microservices</summary>
 
-Here are some of the most notable projects I’ve worked on. You can explore even more of my work in my GitHub repositories. 🌟
+  - DevOps Professional Certificate – PagerDuty & LinkedIn
+      
+  - Docker Foundations Professional Certificate – Docker, Inc.  
+  
+  - Microservices Foundations Professional Certificate – Kong Inc.
 
-### Professional Projects
+</details>
 
-*(multiple detailed bullet points describing professional/studio work)*
+<details>
+<summary>🧭 Agile & Project Management</summary>
 
-### Web Development Projects
+  - Atlassian Agile Project Management & Jira Professional Certificate – Atlassian
 
-*(list of web apps with links to live sites and repos)*
+</details>
 
-### Data Analytics & AI/ML Projects
+<details>
+<summary>🧪 Testing & QA Automation</summary>
 
-*(collection of analytical and ML tools and notebooks)*
+  - LambdaTest Test Automation Professional Certificate – LambdaTest
 
-### Libraries & Packages Projects
+</details>
 
-*(open‑source packages on npm and PyPI with descriptions)*
+<details>
+<summary>🗄️ Data Warehousing & Analytics</summary>
+  
+  -  Advanced SnowflakeDB: Deep Dive Cloud Data Warehousing and Analytics – LinkedIn
 
-### Mobile Applications Projects
+</details>
 
-*(mobile apps like React Native or game ports)*
+<details>
+<summary>🛠️ Software Engineering & Web</summary>
 
-### Other Cool Projects
+  - Software Engineer Role Certificate – HackerRank
+    
+  - Frontend Engineer Role Certificate – HackerRank  
+  
+  - REST APIs Certificate – Codecademy
 
-*(additional miscellaneous repositories/projects)*
+</details>
 
-## Certificates
+<details>
+<summary>📈 Data Science & ML Core</summary>
 
-Here are some of the professional certificates that I have earned over the years, showcasing my commitment to continuous learning and professional development:
+  - DS102X: Machine Learning for Data Science and Analytics – Manipal University
+    
+  - PH125.1x: Data Science – Harvard University 
+  - 
+  - Data Science Ethics – University of Michigan
+    
 
-### 🤖 AI, LLMs & Vector Databases
-- **Microsoft Azure AI Essentials Professional Certificate** – Microsoft & LinkedIn  
-- **Vector Databases Professional Certificate** – Weaviate
+</details>
 
-### ☁️ DevOps, Cloud & Microservices
-- **DevOps Professional Certificate** – PagerDuty & LinkedIn  
-- **Docker Foundations Professional Certificate** – Docker, Inc.  
-- **Microservices Foundations Professional Certificate** – Kong Inc.
+<details>
+<summary>💼 Business & Education Analytics</summary>
 
-### 🧭 Agile & Project Management
-- **Atlassian Agile Project Management & Jira Professional Certificate** – Atlassian
+  - Analyzing Business Metrics with SQL – Codecademy
+    
+  - BDE1x: Big Data & Education – University of Pennsylvania
 
-### 🧪 Testing & QA Automation
-- **LambdaTest Test Automation Professional Certificate** – LambdaTest
+</details>
 
-### 🗄️ Data Warehousing & Analytics
-- **Advanced SnowflakeDB: Deep Dive Cloud Data Warehousing and Analytics** – LinkedIn
+<details>
+<summary>🔐 Security & Blockchain</summary>
 
-### 🛠️ Software Engineering & Web
-- **Software Engineer Role Certificate** – HackerRank  
-- **Frontend Engineer Role Certificate** – HackerRank  
-- **REST APIs Certificate** – Codecademy
+  - CS198.1x: Bitcoin and Cryptocurrencies – UC Berkeley
 
-### 📈 Data Science & ML Core
-- **DS102X: Machine Learning for Data Science and Analytics** – Columbia University  
-- **PH125.1x: Data Science** – Harvard University  
-- **Data Science Ethics** – University of Michigan
+  - Building Your Cybersecurity Toolkit – University of Washington
 
-### 💼 Business & Education Analytics
-- **Analyzing Business Metrics with SQL** – Codecademy  
-- **BDE1x: Big Data & Education** – University of Pennsylvania
+</details>
 
-### 🔐 Security & Blockchain
-- **CS198.1x: Bitcoin and Cryptocurrencies** – UC Berkeley  
-- **Building Your Cybersecurity Toolkit** – University of Washington
+<details>
+<summary>🎛️ HCI & Leadership</summary>
 
-### 🎛️ HCI & Leadership
-- **HCIxI: Human-Computer Interaction** – Georgia Institute of Technology  
-- **Leadership and Communication** – Harvard University
+  - HCIxI: Human-Computer Interaction – Georgia Institute of Technology
+    
+  - Leadership and Communication – Harvard University
 
-## 📊 My GitHub Stats
+</details>
+## My GitHub Stats
 
 <div align="center">
 
