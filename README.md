@@ -12,7 +12,7 @@
 First off I'm super passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. 
 
 > [!IMPORTANT] For more information about me and my projects, please continue reading this README, take a look at my GitHub repositories, and feel free to connect!
-
+---
 ## Tech Stack
 
 Here’s a snapshot of the skills and technologies I have experience with 🧩
@@ -135,6 +135,8 @@ Here’s a snapshot of the skills and technologies I have experience with 🧩
 
 </details>
 
+---
+
 # Professional Certifications
 
 Here are some of the professional certificates that I have earned over the years 
@@ -230,38 +232,7 @@ Here are some of the professional certificates that I have earned over the years
   - Leadership and Communication – Harvard University
 
 </details>
-## My GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rkb32&show_icons=true&theme=radical&hide_border=true" alt="RKB32’s GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rkb32&theme=radical&hide_border=true" alt="RKB32’s GitHub Streak" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkb32&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rkb32&theme=radical&hide_border=true&area=true&color=00D9FF&point=FFFFFF" alt="Contribution Activity" width="49%" />
-
-</div>
-
----
-
-## 💬 Connect with Me
-
-<p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6GUOhxHZclntV_tWJv08S8lM092biInphg&s" alt="LinkedIn />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧 Email‑Me‑EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
-
-<p align="center">
-  Looking forward to connecting & collaborating with you! 🚀
-</p>
-
+  
+  <sub>*Open to opportunities and collaborations* 🤝</sub>
+  
 
