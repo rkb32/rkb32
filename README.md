@@ -137,7 +137,7 @@ Here’s a snapshot of the skills and technologies I have experience with 🧩
 
 ---
 
-# Professional Certifications
+## Professional Certifications
 
 Here are some of the professional certificates that I have earned over the years 
 
