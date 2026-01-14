@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Code+that+made+it+out+alive+💥&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=&descAlignY=51&descAlign=50&font=Pacifico"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=My+digital+scrapbook+of+working+code!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=&descAlignY=51&descAlign=50&font=Pacifico"/>
 
 ### Welcome to my corner of GitHub ✨
 
