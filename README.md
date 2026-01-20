@@ -14,7 +14,7 @@
 
 ## Overview
 
-👋 Hey there, I’m Ranjeeth Burujula — AI/ML Engineer & Computer Vision Hacker crafting intelligent systems and scalable solutions.
+👋 Hey there, I’m Ranjeeth Burujula an AI/ML Engineer & Computer Vision Hacker crafting intelligent systems and scalable solutions.
 
 First off I'm super passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. 
 
