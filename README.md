@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=My+scrapbook+of+working+code!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=&descAlignY=51&descAlign=50&font=Raleway"/>
-
-### Welcome to my corner of GitHub ✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Welcome+to+my+corner+of+Github!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=&descAlignY=51&descAlign=50&font=Raleway"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=680&size=30&duration=2200&pause=500&color=FFD700&background=000814&center=true&vCenter=true&multiline=false&repeat=true&width=740&height=60&lines=AI+/+ML+Engineer+%E2%9A%A1;Code+Necromancer+%F0%9F%91%BB;Computer+Vision+Alchemist+%F0%9F%94%AE;Full+Stack+Maestro+%F0%9F%AA%90" alt="Subtitle" />
 </div>
@@ -14,7 +12,7 @@
 
 ## Overview
 
-👋 Hey there, I’m Ranjeeth Burujula an AI/ML Engineer & Computer Vision Hacker crafting intelligent systems and scalable solutions.
+👋 Hey, I’m Ranjeeth Burujula an Full-Stack AI/ML Engineer & Computer Vision Hacker crafting intelligent systems and scalable solutions.
 
 First off I'm super passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. 
 
