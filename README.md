@@ -4,9 +4,9 @@
 
 ## Overview
 
-👋 Hey, I’m Ranjeeth Burujula an Full-Stack AI/ML Engineer & Computer Vision Hacker crafting intelligent systems and scalable solutions.
+👋 Hey, I’m Ranjeeth Burujula an Upcoming Security engineer, Full-Stack AI/ML Engineer & Computer Vision Hacker crafting intelligent systems and scalable solutions. Here's my <a href=https://ranjeethkbportfolio-bfcalwc2q-rkb23s-projects.vercel.app/> Portfolio </a>
 
-First off I'm super passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. 
+First off I'm super passionate about security, software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. 
 
 > [!IMPORTANT] For more information about me and my projects, please continue reading this README, take a look at my GitHub repositories, and feel free to connect!
 ---
