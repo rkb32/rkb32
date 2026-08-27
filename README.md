@@ -4,7 +4,7 @@
 
 ## Overview
 
- Hi, I'm trying to be a engineer that work on anything i want to. I learn fast and work well with people when I want too.
+I’m trying to become an engineer who can work across different areas and take on whatever problems interest me. I learn quickly, adapt well, and enjoy working with people to build things and solve problems.
 
 > For more information about me - connect with me on linkedin!
 
