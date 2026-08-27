@@ -4,7 +4,7 @@
 
 ## Overview
 
-👋 Hey, I'm a software engineer. Who likes jumping into different corners of engineering, from backend systems to AI agents, wherever there's something meaningful to build or fix. I learn fast and work well with people who care about what they're building.
+ Hi, I'm trying to be a engineer that work on anything i want to. I learn fast and work well with people when I want too.
 
 > For more information about me - connect with me on linkedin!
 
